@@ -401,6 +401,10 @@
       justify-content: space-around;
 }
 
+.education__wrapper_heading-right {
+  text-align: right;
+}
+
 .education__box {
   max-width: 350px;
   text-align: right;
