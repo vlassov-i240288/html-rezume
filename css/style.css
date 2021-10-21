@@ -401,8 +401,18 @@
       justify-content: space-around;
 }
 
+.education__wrapper_heading {
+  text-align: center;
+  font-weight: 300;
+  color: #ffffff;
+  margin: 25px 0;
+}
+
 .education__wrapper_heading-right {
-  text-align: right;
+  text-align: center;
+  font-weight: 300;
+  color: #ffffff;
+  margin: 25px 0;
 }
 
 .education__box {
